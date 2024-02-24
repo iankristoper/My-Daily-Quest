@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706665117 source:c:\c language\daily quest\check if palidrome\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
