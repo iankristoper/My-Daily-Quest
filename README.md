@@ -1,7 +1,5 @@
-# My-Daily-Quest
-Daily problems using c++
+# Daily-Quest
 
-The following are the problems that i solve
 1. Hello World
 2. Palindrome Checker
 3. Vowel Counter
